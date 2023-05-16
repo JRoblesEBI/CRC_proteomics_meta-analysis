@@ -1,0 +1,167 @@
+Sample	Dataset	Source
+ppb.iBAQ.e.EV_10N	JPST000867	EC vesicles and exosomes
+ppb.iBAQ.e.EV_10T	JPST000867	EC vesicles and exosomes
+ppb.iBAQ.e.EV_11N	JPST000867	EC vesicles and exosomes
+ppb.iBAQ.e.EV_11T	JPST000867	EC vesicles and exosomes
+ppb.iBAQ.e.EV_12N	JPST000867	EC vesicles and exosomes
+ppb.iBAQ.e.EV_12T	JPST000867	EC vesicles and exosomes
+ppb.iBAQ.e.EV_13N	JPST000867	EC vesicles and exosomes
+ppb.iBAQ.e.EV_13T	JPST000867	EC vesicles and exosomes
+ppb.iBAQ.e.EV_14N	JPST000867	EC vesicles and exosomes
+ppb.iBAQ.e.EV_14T	JPST000867	EC vesicles and exosomes
+ppb.iBAQ.e.EV_15N	JPST000867	EC vesicles and exosomes
+ppb.iBAQ.e.EV_15T	JPST000867	EC vesicles and exosomes
+ppb.iBAQ.e.EV_16N	JPST000867	EC vesicles and exosomes
+ppb.iBAQ.e.EV_16T	JPST000867	EC vesicles and exosomes
+ppb.iBAQ.e.EV_17N	JPST000867	EC vesicles and exosomes
+ppb.iBAQ.e.EV_17T	JPST000867	EC vesicles and exosomes
+ppb.iBAQ.e.EV_1N	JPST000867	EC vesicles and exosomes
+ppb.iBAQ.e.EV_1T	JPST000867	EC vesicles and exosomes
+ppb.iBAQ.e.EV_2N	JPST000867	EC vesicles and exosomes
+ppb.iBAQ.e.EV_2T	JPST000867	EC vesicles and exosomes
+ppb.iBAQ.e.EV_3N	JPST000867	EC vesicles and exosomes
+ppb.iBAQ.e.EV_3T	JPST000867	EC vesicles and exosomes
+ppb.iBAQ.e.EV_4N	JPST000867	EC vesicles and exosomes
+ppb.iBAQ.e.EV_4T	JPST000867	EC vesicles and exosomes
+ppb.iBAQ.e.EV_5N	JPST000867	EC vesicles and exosomes
+ppb.iBAQ.e.EV_5T	JPST000867	EC vesicles and exosomes
+ppb.iBAQ.e.EV_6N	JPST000867	EC vesicles and exosomes
+ppb.iBAQ.e.EV_6T	JPST000867	EC vesicles and exosomes
+ppb.iBAQ.e.EV_7N	JPST000867	EC vesicles and exosomes
+ppb.iBAQ.e.EV_7T	JPST000867	EC vesicles and exosomes
+ppb.iBAQ.e.EV_8N	JPST000867	EC vesicles and exosomes
+ppb.iBAQ.e.EV_8T	JPST000867	EC vesicles and exosomes
+ppb.iBAQ.e.EV_9N	JPST000867	EC vesicles and exosomes
+ppb.iBAQ.e.EV_9T	JPST000867	EC vesicles and exosomes
+ppb.iBAQ.EV_N	JPST000867	EC vesicles and exosomes
+ppb.iBAQ.EV_T	JPST000867	EC vesicles and exosomes
+ppb.iBAQ.KM12L4	PXD032899	Cell culture-derived
+ppb.iBAQ.KM12SM	PXD032899	Cell culture-derived
+ppb.iBAQ.SW620	PXD032899	Cell culture-derived
+ppb.iBAQ E24 Normal	PXD005693	Interstitial fluid
+ppb.iBAQ E24 Tumor	PXD005693	Interstitial fluid
+ppb.iBAQ E25 Normal	PXD005693	Interstitial fluid
+ppb.iBAQ E25 Tumor	PXD005693	Interstitial fluid
+ppb.iBAQ E29 Normal	PXD005693	Interstitial fluid
+ppb.iBAQ E29 Tumor	PXD005693	Interstitial fluid
+ppb.iBAQ E40 Normal	PXD005693	Interstitial fluid
+ppb.iBAQ E43 Normal	PXD005693	Interstitial fluid
+ppb.iBAQ E43 Tumor	PXD005693	Interstitial fluid
+ppb.iBAQ E45 Norrmal	PXD005693	Interstitial fluid
+ppb.iBAQ E45 Tumor	PXD005693	Interstitial fluid
+ppb.iBAQ E46 Normal	PXD005693	Interstitial fluid
+ppb.iBAQ E46 Tumor	PXD005693	Interstitial fluid
+ppb.iBAQ E47 Normal	PXD005693	Interstitial fluid
+ppb.iBAQ E47 Tumor	PXD005693	Interstitial fluid
+ppb.iBAQ.Expel10.CRC.LM	PXD005709	Interstitial fluid
+ppb.iBAQ.Expel10.normal	PXD005709	Interstitial fluid
+ppb.iBAQ.Expel17.CRC.LM	PXD005709	Interstitial fluid
+ppb.iBAQ.Expel17.normal	PXD005709	Interstitial fluid
+ppb.iBAQ.Expel18.CRC.LM	PXD005709	Interstitial fluid
+ppb.iBAQ.Expel18.normal	PXD005709	Interstitial fluid
+ppb.iBAQ.Expel19.CRC.LM	PXD005709	Interstitial fluid
+ppb.iBAQ.Expel19.normal	PXD005709	Interstitial fluid
+ppb.iBAQ.Expel22.CRC.LM	PXD005709	Interstitial fluid
+ppb.iBAQ.Expel22.normal	PXD005709	Interstitial fluid
+ppb.iBAQ.Expel3.CRC.LM	PXD005709	Interstitial fluid
+ppb.iBAQ.Expel3.normal	PXD005709	Interstitial fluid
+ppb.iBAQ.CRC.A	PXD010458	Blood-derived
+ppb.iBAQ.CRC.B	PXD010458	Blood-derived
+ppb.iBAQ.CRC.C	PXD010458	Blood-derived
+ppb.iBAQ.CRC.D	PXD010458	Blood-derived
+ppb.iBAQ.FEB	PXD010458	Blood-derived
+ppb.iBAQ.Healthy	PXD010458	Blood-derived
+ppb.iBAQ.A549_exo1	PXD020467	Cell culture-derived
+ppb.iBAQ.A549_exo2	PXD020467	Cell culture-derived
+ppb.iBAQ.A549_exo3	PXD020467	Cell culture-derived
+ppb.iBAQ.Caco2_exo1	PXD020467	Cell culture-derived
+ppb.iBAQ.Caco2_exo2	PXD020467	Cell culture-derived
+ppb.iBAQ.Caco2_exo3	PXD020467	Cell culture-derived
+ppb.iBAQ.H23_exo1	PXD020467	Cell culture-derived
+ppb.iBAQ.H23_exo2	PXD020467	Cell culture-derived
+ppb.iBAQ.H23_exo3	PXD020467	Cell culture-derived
+ppb.iBAQ.HT29_exo1	PXD020467	Cell culture-derived
+ppb.iBAQ.HT29_exo2	PXD020467	Cell culture-derived
+ppb.iBAQ.HT29_exo3	PXD020467	Cell culture-derived
+ppb.iBAQ.HTC116_exo1	PXD020467	Cell culture-derived
+ppb.iBAQ.HTC116_exo2	PXD020467	Cell culture-derived
+ppb.iBAQ.HTC116_exo3	PXD020467	Cell culture-derived
+ppb.iBAQ.exoA153_TRG1	PXD031556	EC vesicles and exosomes
+ppb.iBAQ.exoA162_TRG1	PXD031556	EC vesicles and exosomes
+ppb.iBAQ.exoA186_TRG1	PXD031556	EC vesicles and exosomes
+ppb.iBAQ.exoA282_TRG1	PXD031556	EC vesicles and exosomes
+ppb.iBAQ.exoA293_TRG1	PXD031556	EC vesicles and exosomes
+ppb.iBAQ.exoA296_TRG1	PXD031556	EC vesicles and exosomes
+ppb.iBAQ.exoA298	PXD031556	EC vesicles and exosomes
+ppb.iBAQ.exoA334_TRG1	PXD031556	EC vesicles and exosomes
+ppb.iBAQ.exoA342_TRG1	PXD031556	EC vesicles and exosomes
+ppb.iBAQ.exoA360_TRG1	PXD031556	EC vesicles and exosomes
+ppb.iBAQ.exoA363_TRG1	PXD031556	EC vesicles and exosomes
+ppb.iBAQ.exoA384_TRG1	PXD031556	EC vesicles and exosomes
+ppb.iBAQ.exoA386_TRG1	PXD031556	EC vesicles and exosomes
+ppb.iBAQ.exoA406_TRG1	PXD031556	EC vesicles and exosomes
+ppb.iBAQ.exoA415_TRG1	PXD031556	EC vesicles and exosomes
+ppb.iBAQ.exoA50_TRG1	PXD031556	EC vesicles and exosomes
+ppb.iBAQ.exoA63_TRG1	PXD031556	EC vesicles and exosomes
+ppb.iBAQ.exoA95_TRG1	PXD031556	EC vesicles and exosomes
+ppb.iBAQ.exoB100_TRG2	PXD031556	EC vesicles and exosomes
+ppb.iBAQ.exoB12_TRG1	PXD031556	EC vesicles and exosomes
+ppb.iBAQ.exoB148_TRG2	PXD031556	EC vesicles and exosomes
+ppb.iBAQ.exoB150_TRG2	PXD031556	EC vesicles and exosomes
+ppb.iBAQ.exoB164_TRG2	PXD031556	EC vesicles and exosomes
+ppb.iBAQ.exoB191_TRG2	PXD031556	EC vesicles and exosomes
+ppb.iBAQ.exoB198_TRG2	PXD031556	EC vesicles and exosomes
+ppb.iBAQ.exoB201_TRG2	PXD031556	EC vesicles and exosomes
+ppb.iBAQ.exoB234_TRG2	PXD031556	EC vesicles and exosomes
+ppb.iBAQ.exoB240_TRG2	PXD031556	EC vesicles and exosomes
+ppb.iBAQ.exoB260_TRG2	PXD031556	EC vesicles and exosomes
+ppb.iBAQ.exoB311_TRG2	PXD031556	EC vesicles and exosomes
+ppb.iBAQ.exoB318_TRG2	PXD031556	EC vesicles and exosomes
+ppb.iBAQ.exoB364_TRG2	PXD031556	EC vesicles and exosomes
+ppb.iBAQ.exoB392_TRG2	PXD031556	EC vesicles and exosomes
+ppb.iBAQ.exoB393_TRG2	PXD031556	EC vesicles and exosomes
+ppb.iBAQ.exoB398_TRG2	PXD031556	EC vesicles and exosomes
+ppb.iBAQ.exoB401_TRG2	PXD031556	EC vesicles and exosomes
+ppb.iBAQ.exoB51_TRG2	PXD031556	EC vesicles and exosomes
+ppb.iBAQ.exoB62_TRG2	PXD031556	EC vesicles and exosomes
+ppb.iBAQ.exoB92_TRG2	PXD031556	EC vesicles and exosomes
+ppb.iBAQ.plasmaA153_TRG1	PXD031556	Blood-derived
+ppb.iBAQ.plasmaA162_TRG1	PXD031556	Blood-derived
+ppb.iBAQ.plasmaA186_TRG1	PXD031556	Blood-derived
+ppb.iBAQ.plasmaA198_TRG2	PXD031556	Blood-derived
+ppb.iBAQ.plasmaA282_TRG1	PXD031556	Blood-derived
+ppb.iBAQ.plasmaA293_TRG1	PXD031556	Blood-derived
+ppb.iBAQ.plasmaA296_TRG1	PXD031556	Blood-derived
+ppb.iBAQ.plasmaA298	PXD031556	Blood-derived
+ppb.iBAQ.plasmaA32	PXD031556	Blood-derived
+ppb.iBAQ.plasmaA334_TRG1	PXD031556	Blood-derived
+ppb.iBAQ.plasmaA342_TRG1	PXD031556	Blood-derived
+ppb.iBAQ.plasmaA360_TRG1	PXD031556	Blood-derived
+ppb.iBAQ.plasmaA363_TRG1	PXD031556	Blood-derived
+ppb.iBAQ.plasmaA384_TRG1	PXD031556	Blood-derived
+ppb.iBAQ.plasmaA386_TRG1	PXD031556	Blood-derived
+ppb.iBAQ.plasmaA406_TRG1	PXD031556	Blood-derived
+ppb.iBAQ.plasmaA415_TRG1	PXD031556	Blood-derived
+ppb.iBAQ.plasmaA50_TRG1	PXD031556	Blood-derived
+ppb.iBAQ.plasmaA95_TRG1	PXD031556	Blood-derived
+ppb.iBAQ.plasmaB100_TRG2	PXD031556	Blood-derived
+ppb.iBAQ.plasmaB12_TRG2	PXD031556	Blood-derived
+ppb.iBAQ.plasmaB148_TRG2	PXD031556	Blood-derived
+ppb.iBAQ.plasmaB150_TRG2	PXD031556	Blood-derived
+ppb.iBAQ.plasmaB191_TRG2	PXD031556	Blood-derived
+ppb.iBAQ.plasmaB201_TRG2	PXD031556	Blood-derived
+ppb.iBAQ.plasmaB234_TRG2	PXD031556	Blood-derived
+ppb.iBAQ.plasmaB240_TRG2	PXD031556	Blood-derived
+ppb.iBAQ.plasmaB260_TRG2	PXD031556	Blood-derived
+ppb.iBAQ.plasmaB311_TRG2	PXD031556	Blood-derived
+ppb.iBAQ.plasmaB318_TRG2	PXD031556	Blood-derived
+ppb.iBAQ.plasmaB35_TRG2	PXD031556	Blood-derived
+ppb.iBAQ.plasmaB357_TRG2	PXD031556	Blood-derived
+ppb.iBAQ.plasmaB364_TRG2	PXD031556	Blood-derived
+ppb.iBAQ.plasmaB392_TRG2	PXD031556	Blood-derived
+ppb.iBAQ.plasmaB393_TRG2	PXD031556	Blood-derived
+ppb.iBAQ.plasmaB398_TRG2	PXD031556	Blood-derived
+ppb.iBAQ.plasmaB401_TRG2	PXD031556	Blood-derived
+ppb.iBAQ.plasmaB51_TRG2	PXD031556	Blood-derived
+ppb.iBAQ.plasmaB62_TRG2	PXD031556	Blood-derived
+ppb.iBAQ.plasmaB92_TRG2	PXD031556	Blood-derived
