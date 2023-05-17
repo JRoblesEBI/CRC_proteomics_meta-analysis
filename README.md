@@ -8,4 +8,4 @@ Batch analysis output files can be found in "Solid samples" and "Secreted sample
 
 CODE
 
-R script used for performing Cox regression analysis to the protein expression matrix can be found in "survival analysis" folder: "Cox_regression.R"
+R script used for protein expression normalization and Cox regression.
